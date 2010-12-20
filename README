@@ -1,13 +1,17 @@
 # clj-garden
 
-FIXME: write description
+Where I grow Clojure codes 
+Inspiration taken from http://github.com/mmcgrana/clj-garden
+
+Snippets of clojure code, ideas and resources. 
+Possibly reusable, probably unfinished and/or broken. 
 
 ## Usage
 
-FIXME: write
+At own risk
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 Kurt Harriger
 
 Distributed under the Eclipse Public License, the same as Clojure.
